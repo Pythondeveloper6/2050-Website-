@@ -1,0 +1,140 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.active{
+    color: #6c63ff !important;
+}
+.nav-link{
+    font-size: 18px;
+    color: black;
+}
+.nav-link:hover{
+    color:#6c63ff;
+}
+
+.mycolor{
+    color:#6c63ff;
+    font-weight: 700;
+    font-size: 24px;
+}
+.banner_text{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.banner_subtitle{
+    font-size: 24px;
+    line-height: 1.4;
+    color: #666666;
+}
+.banner_btn{
+    padding: 12px 58px;
+    font-size: 18px;
+    font-weight: 600;
+    border: 1px solid #6c63ff;
+    border-radius: 28px;
+    text-decoration: none;
+    background-color: #6c63ff;
+    color: white;
+}
+.banner_btn:hover{
+    color: #6c63ff;
+    background-color: white;
+}
+.about_text{
+    font-size: 48px;
+}
+.about_subtitle{
+    font-size: 18px;
+}
+.about_img{
+    margin-left: -220px;
+}
+.icon_div{
+    background-color: #6c63ff;
+    color: white;
+    padding: 20px;
+    border-radius: 50%;
+}
+.img_background{
+    background-color:rgb(243, 249, 251);
+    border-radius: 50%;
+    width: 624px;
+    height: 624px;
+    margin-top: 100px;
+}
+.img_background img{
+    margin-top: -115px;
+}
+.feature_img{
+    margin-left: -160px;
+}
+.check_icon{
+    font-weight: 300;
+    width: 50px;
+    height: 50px;
+    color: #6c63ff;
+}
+.features_li{ list-style-type: none;}
+.px-6{
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.py-6{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.product{
+    box-shadow: 0px 3px 24px 3px rgba(7, 7, 7, 0.04);
+    border-bottom: 3px solid #6c63ff;
+}
+.product_section{
+    background-color: rgb(243, 249, 251);
+}
+.product_title{
+    font-size: 24px;
+    font-weight: 700;
+}
+.feature-img{ margin-left: 8%;}
+.feature_icon{
+    border-radius: 50%;
+    background-color: #6c63ff;
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.myfont-21{
+    font-size: 21px;
+    font-weight: 700;
+}
+.myfont-18{
+    font-size: 18px;
+    font-weight: 700;
+}
+.team_section{
+    background-color: #f0f6fb;;
+}
+.review_img{
+    width: 90px;
+height: 90px;
+border-radius: 50%;
+object-fit: cover;
+}
+.text_subtitle{
+    color: #99999999;
+}
+.blog_section{
+    background-color: #f0f6fb;
+}
+.blog_card{
+    overflow: hidden;
+}
+
+.blog_img:hover{
+	transform: scale(1.1);
+	transition: 0.3s ease-in-out;
+}
